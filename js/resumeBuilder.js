@@ -6,11 +6,11 @@ var bio = {
 		"email" : "gehigbie@gmail.com",
 		"github" : "https://wwww.github.com/ghigbie",
 		"linkedIn" : "https://www.linkedin.com/in/higbie",
-		"location" : "Honolulu, HI"
+		"location" : "New York, NY"
 	} ,
 	"welcomeMessage" : "Thanks for visiting!  Feel free to contact me anytime.",
-	"skills" : ["Web Development", "E-Learning Development", "HTML5", "CSS3", "JavaScript", "jQuery", "Bootstrap", "Flexbox"],
-	"picture" : "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAAjAAAAJDQyYWY0YmE2LTY1NWQtNGZjOC05NjNmLTY3NjNiNjY1NDQxMA.jpg",
+	"skills" : ["Mobile Development", "Java", "Web Development", "Android SDK", "XML", "HTML5", "CSS3", "JavaScript", "JQuery", "Bootstrap", "Flexbox"],
+	"picture" : "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAkPAAAAJGVmMjZkMzhhLTBhMDgtNDY1ZC1hYjM5LTM1ZDcwMDk0NTk3Nw.jpg",
 }
 
 bio.display = function(){
