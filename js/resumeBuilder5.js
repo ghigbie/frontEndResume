@@ -6,10 +6,10 @@ var bio = {
 		"email" : "gehigbie@gmail.com",
 		"github" : "https://github.com/ghigbie",
 		"linkedIn" : "https://www.linkedin.com/in/higbie",
-		"location" : "Honolulu, HI"
+		"location" : "New York, NY"
 	} ,
 	"welcomeMessage" : "Thanks for visiting my resume!  Feel free to contact me anytime.",
-	"skills" : ["Web Development", "E-Learning Development", "HTML5", "CSS3", "JavaScript", "JQuery", "Bootstrap", "Flexbox"],
+	"skills" : ["Mobile Development", "Java", "Web Development", "Android SDK", "XML", "HTML5", "CSS3", "JavaScript", "JQuery", "Bootstrap", "Flexbox"],
 	"picture" : "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAAjAAAAJDQyYWY0YmE2LTY1NWQtNGZjOC05NjNmLTY3NjNiNjY1NDQxMA.jpg",
 	"display" : "Some kind of function needs to go here!"
 }
